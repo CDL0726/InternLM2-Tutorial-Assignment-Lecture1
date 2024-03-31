@@ -11,10 +11,10 @@
 
 基于书生·万卷和和行业专用知识库，用XTuner对模型过行微调，用Lagent和Aagentlego 构建智能体，再用OpenCompass进行评测，效果满意后，用LMDeploy进行布署。
 
-| 模型选型（评测） | 数据集 | 参数微调 | 构建智能体 | 模型评测 | 模型部署 |
----
-| OpenCompass  | 书生·万卷 | XTuner | Lagent Agentlego | OpenCompass | LMDeploy |    
----
+  |模型选型（评测）|数据集|参数微调|构建智能体|模型评测|模型部署|
+-
+  |OpenCompass|书生·万卷|XTuner |Lagent Agentlego|OpenCompass|LMDeploy|    
+-
 
 ![](./L1.2.png)  
 
