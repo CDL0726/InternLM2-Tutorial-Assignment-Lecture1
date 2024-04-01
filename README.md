@@ -11,10 +11,13 @@
 
 基于书生·万卷和和行业专用知识库，用XTuner对模型过行微调，用Lagent和Aagentlego 构建智能体，再用OpenCompass进行评测，效果满意后，用LMDeploy进行布署。
 
-  |模型选型（评测）|数据集|参数微调|构建智能体|模型评测|模型部署|
--
-  |OpenCompass|书生·万卷|XTuner |Lagent Agentlego|OpenCompass|LMDeploy|    
--
+### 本课知识点用于小组大项目作业小结： 
+Healhcare Agent Road Map 医疗保健智能体实现路径：
+|模型选型（评测）|数据集|参数微调|构建智能体|模型评测|模型部署|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|OpenCompass|书生·万卷|XTuner |Lagent Agentlego|OpenCompass|LMDeploy|    
+|InternLM2-chat-7b|医疗类多轮问答数据 MultiRC EntityQuestions|LoRA微调|智能体功能设计 智能问答 CVD慢病管理 数据分析|医疗模型评测|部署应用|
+
 
 ![](./L1.2.png)  
 
